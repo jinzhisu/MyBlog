@@ -3,8 +3,8 @@ title: ivim's blog
 email: admin@ivim.vip
 description: >
   admin@ivim.vip's blog with GitHub.
-baseurl: "/"
-url: "http://www.ivim.vip"
+baseurl: ""
+url: "http://www.ivim.vip/"
 twitter_username: 
 github_username:  jinzhisu
 # Build Settings
