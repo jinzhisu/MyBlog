@@ -4,6 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
 
 My e-mail is [admin@ivim.vip](mailto:admin@ivim.vip).
