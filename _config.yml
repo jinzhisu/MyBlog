@@ -1,11 +1,11 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: ivim's blog
+email: admin@ivim.vip
 description: >
-  A guide to getting started with Jekyll.
+  admin@ivim.vip's blog with GitHub.
 baseurl: "/myblog"
-url: "http://jinzhisu.github.io"
-twitter_username: taniarascia
+url: "http://www.ivim.vip"
+twitter_username: 
 github_username:  jinzhisu
 # Build Settings
 sass:
