@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello GitHub!"
+title:  "Use PHP to friendly output SQL"
 date:   2017-03-11 20:28:21
-categories: program
+categories: Programming
 ---
 
 If use `echo` output sql,you will see the sql is so long in the screen.
