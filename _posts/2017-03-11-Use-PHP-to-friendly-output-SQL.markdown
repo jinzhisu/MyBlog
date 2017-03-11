@@ -12,6 +12,7 @@ If use `echo` output sql,you will see the sql is so long in the screen.
 
 If you hope to output sql  friendly in the screen,you can use the following function.
 
+{% highlight ruby %}
     /**
      * friendly output sql
      * @param String $sql 
@@ -36,7 +37,7 @@ If you hope to output sql  friendly in the screen,you can use the following func
         }
         echo $formatSql;
     }
-
+{% endhighlight %}
 As you can see,in the function,iterte the keyword of SQL which declared before .And add `<br />` before the keyword .Final,keyword added style can highlight show.
 
 
